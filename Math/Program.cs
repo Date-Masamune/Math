@@ -18,6 +18,7 @@ namespace Circle
          Console.WriteLine($"Diameter = {2 * r}");
          Console.WriteLine($"Circumference = {2 * MyPi * r}");
          Console.WriteLine($"area = {MyPi * r * r}");
+         // This a pull test
       }
    }
 }
